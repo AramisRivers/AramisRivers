@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AramisRivers
+- 👋 Hi, I’m Horacio Ríos
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on big data projects
